@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CS](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). My research interest includes machine learning, brain machine intelligence.
+I'm a third year undergraduate student from [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). My research interest includes Articifial Intelligence, Brain Machine Intelligence.
 
-I am very fortunate to be advised by [Prof. zhao](http://www.shazhao.net/) of Brain Machine Intelligence Lab, Zhejiang University.
+I am very fortunate to be advised by [Prof. Sha ZHAO](http://www.shazhao.net/) of College of Computer Science and Technology, Zhejiang University.
