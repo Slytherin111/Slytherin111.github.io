@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). My research interest includes Articifial Intelligence, Brain Machine Intelligence.
+I’m a first year graduate student from [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). My research interest includes Articifial Intelligence, Brain Machine Intelligence.
 
 I am very fortunate to be advised by [Prof. Sha ZHAO](http://www.shazhao.net/) of College of Computer Science and Technology, Zhejiang University.
